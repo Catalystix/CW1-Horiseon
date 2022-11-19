@@ -4,7 +4,7 @@
 * I didnt struggle much with the actual project and what it entailed. The Issue was github and the cloning process was so bugged up that I had to break down each of the pieces of starter code by cloning and copying it to a new file and attempting the push until I singled out the item causing the issue and had to get that file from a tutor. 
 None the less we do have a final product and that is part of the process sometimes.
 
-# "Sometimes you run into very strange errors that are difficult to solve and that's a part of programming sometimes. Sucks to have to deal with it " Andrew Hardemon*
+# "Sometimes you run into very strange errors that are difficult to solve and that's a part of programming sometimes. Sucks to have to deal with it" Andrew Hardemon
 
 
 # Technologies Used
