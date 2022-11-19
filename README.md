@@ -11,7 +11,7 @@ None the less we do have a final product and that is part of the process sometim
     HTML
     CSS
 
-# in this code you will find a much more polished looking index.html and style.css file while getting the same results
+# In this code you will find a much more polished looking index.html and style.css file while getting the same results
  * There were many duplicate or redundant class tags
  * replced div with semantic html 
  * commented where I made changes (this helps a lot)
