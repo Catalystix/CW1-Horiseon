@@ -3,11 +3,6 @@
     padding: 0;
     margin: 0;
 }
-/* I believe I got rid of any redundant css */
-body {
-    background-color: #d9dcd6;
-}
-
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,15 +36,6 @@ body {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -59,7 +45,23 @@ h3 {
     margin-bottom: 10px;
     text-align: center;
 }
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+
 /* reordered tags above */
+/* I believe I got rid of any redundant css */
+body {
+    background-color: #d9dcd6;
+}
+
 /*  is this all in semantic structure? */
 .hero {
     height: 800px;
