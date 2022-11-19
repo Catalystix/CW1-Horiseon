@@ -25,4 +25,7 @@ None the less we do have a final product and that is part of the process sometim
  * Starter Code https://github.com/coding-boot-camp/urban-octo-telegram
  * W3 Schools for README.MD Directions
 
+ https://catalystix.github.io/CW1-Horiseon-Refactorino/
+ https://github.com/Catalystix/CW1-Horiseon-Refactorino
+
  
