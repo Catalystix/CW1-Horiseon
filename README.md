@@ -28,4 +28,4 @@ None the less we do have a final product and that is part of the process sometim
  https://catalystix.github.io/CW1-Horiseon-Refactorino/
  https://github.com/Catalystix/CW1-Horiseon-Refactorino
 
- 
+ ![CW1 SC](https://user-images.githubusercontent.com/110114608/202852751-9d2628bd-7ec6-4e75-abdb-2020c1bfdc35.jpg)
